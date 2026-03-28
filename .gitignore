@@ -1,0 +1,14 @@
+.venv
+
+practicals/P3/data/
+practicals/P3/hymenoptera*
+
+practicals/P5/data/
+practicals/P5/__pycache__/
+
+practicals/P6/__pycache__/
+
+practicals/P7/__pycache__/
+
+practicals/P8/__pycache__/
+practicals/P8/data_P8/
