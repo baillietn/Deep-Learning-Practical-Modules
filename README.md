@@ -1,4 +1,4 @@
-# ML_S5_etudiants - Machine Learning Course Repository
+# ML-Course-Materials - Machine Learning Course Repository
 
 Official GitHub repository for **ENM-ENSEEIHT Machine Learning** courses. 
 This repository contains comprehensive practical sessions, theory slides, and training materials covering fundamental to advanced deep learning concepts.
