@@ -1,4 +1,4 @@
-# ML-Course-Materials - Machine Learning Course Repository
+# Deep Learning Practical Modules
 
 Official GitHub repository for **ENM-ENSEEIHT Machine Learning** courses. 
 This repository contains comprehensive practical sessions, theory slides, and training materials covering fundamental to advanced deep learning concepts.
